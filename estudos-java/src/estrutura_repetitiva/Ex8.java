@@ -17,5 +17,7 @@ public class Ex8 {
 		}
 		
 		System.out.println(fatorial);
+		
+		sc.close();
 	}
 }
